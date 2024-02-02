@@ -67,7 +67,7 @@ O script JavaScript oferece os seguintes comandos para interagir no WhatsApp:
 - `/tchau`: Envia uma despedida.
 - `/comandos`: Lista todos os comandos disponíveis.
 - `/pesquisa [termo]`: Realiza uma pesquisa na Amazon com o termo especificado e retorna valores dos itens + informações.
-- `/menciona`: Menciona todos os participantes de um grupo.
+- `/menciona`: Menciona todos os participantes de um grupo. (não finaliazado)
 
 ### Pesquisa na Amazon
 
