@@ -1,0 +1,15 @@
+{
+  "name": "botzap",
+  "version": "1.0.1",
+  "description": "Whatsapp Bot",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Lopes de Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.28.2"
+  }
+}
