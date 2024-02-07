@@ -24,12 +24,12 @@ npm install @wppconnect-team/wppconnect
 
 ### Script JavaScript
 
-O script JavaScript (`whatsapp.js`) é responsável por automatizar o envio de mensagens no WhatsApp. Ele utiliza a biblioteca `@wppconnect-team/wppconnect` para se conectar ao WhatsApp Web.
+O script JavaScript (`index.js`) é responsável por automatizar o envio de mensagens no WhatsApp. Ele utiliza a biblioteca `@wppconnect-team/wppconnect` para se conectar ao WhatsApp Web.
 
 Para executar o script, utilize o seguinte comando:
 
 ```bash
-node whatsapp.js
+node index.js
 ```
 
 ### Script Python
@@ -49,8 +49,8 @@ Certifique-se de ter o Google Chrome instalado e configurado corretamente para o
 ```
 .
 ├── src/
-│   ├── javascript/
-│   │   └── whatsapp.js
+│   ├── index.js
+│   │    
 │   └── python/
 │       └── pesquisa.py
 ├── README.md
