@@ -10,6 +10,6 @@
   "author": "Leonardo Lopes de Almeida",
   "license": "ISC",
   "dependencies": {
-    "@wppconnect-team/wppconnect": "^1.28.2"
+    "@wppconnect-team/wppconnect": "^1.29.0"
   }
 }
