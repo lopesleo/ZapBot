@@ -71,7 +71,7 @@ O script JavaScript oferece os seguintes comandos para interagir no WhatsApp:
 
 ### Pesquisa na Amazon
 
-O script Python realiza pesquisas de produtos na Amazon. Ele retorna uma lista de produtos correspondentes ao termo de pesquisa fornecido.
+O script Python realiza pesquisas de produtos na Amazon. Ele retorna uma lista 3 de produtos correspondentes ao termo de pesquisa fornecido.
 
 ## Notas Adicionais
 
